@@ -7,3 +7,5 @@ If Statements and Loops:
 -Lab tasks (Completed).
 -Exercises taks (Completed).
 - Week (2):
+Data Types and Variables
+-Lab tasks (Completed).
