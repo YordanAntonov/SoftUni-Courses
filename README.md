@@ -10,5 +10,5 @@ If Statements and Loops:
 Data Types and Variables
 -Lab tasks (Completed).
 -Exercises tasks (Completed).
-- Week 3:
+- Week (3):
 
