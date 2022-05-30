@@ -5,7 +5,10 @@
 - Week (1):
 If Statements and Loops:
 -Lab tasks (Completed).
--Exercises taks (Completed).
+-Exercises tasks (Completed).
 - Week (2):
 Data Types and Variables
 -Lab tasks (Completed).
+-Exercises tasks (Completed).
+- Week 3:
+
