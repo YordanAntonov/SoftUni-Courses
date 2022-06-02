@@ -11,4 +11,6 @@ Data Types and Variables
 -Lab tasks (Completed).
 -Exercises tasks (Completed).
 - Week (3):
+Arrays
+-Lab tasks (Completed).
 
