@@ -14,5 +14,5 @@ Data Types and Variables
 Arrays
 -Lab tasks (Completed).
 -Exercises tasks (Completed).
--Week (4)
+-Week (4):
 
