@@ -3,7 +3,7 @@
  
  -------------------------------Programing Fundamentals--------------------------------------- 
 - Week (1):
-If Statements and Loops:
+If Statements and Loops
 -Lab tasks (Completed).
 -Exercises tasks (Completed).
 - Week (2):
@@ -16,4 +16,5 @@ Arrays
 -Exercises tasks (Completed).
 - Week (4):
 Methods
+-Lab tasks (Completed).
 
