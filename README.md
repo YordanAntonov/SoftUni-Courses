@@ -18,4 +18,7 @@ Arrays
 Methods
 -Lab tasks (Completed).
 -Exercise tasks (Completed).
+- Week (5):
+Lists
+-Lab tasks (Completed).
 
