@@ -21,4 +21,8 @@ Methods
 - Week (5):
 Lists
 -Lab tasks (Completed).
+-Lab Exercise
+Fundamentals MidExam 
+-Mid Exam tasks (Passed 300/300).
+
 
