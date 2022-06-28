@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SoftUni Course Planning")]
+[assembly: AssemblyTitle("SoftUni Courses Planning(2)")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SoftUni Course Planning")]
+[assembly: AssemblyProduct("SoftUni Courses Planning(2)")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7ddfc4a4-e270-483e-9fe8-4f3b3cc72183")]
+[assembly: Guid("08af2bcc-bbcb-4e12-b344-3400bee1abb4")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DDFC4A4-E270-483E-9FE8-4F3B3CC72183}</ProjectGuid>
+    <ProjectGuid>{08AF2BCC-BBCB-4E12-B344-3400BEE1ABB4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SoftUni_Course_Planning</RootNamespace>
-    <AssemblyName>SoftUni Course Planning</AssemblyName>
+    <RootNamespace>SoftUni_Courses_Planning_2_</RootNamespace>
+    <AssemblyName>SoftUni Courses Planning%282%29</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
