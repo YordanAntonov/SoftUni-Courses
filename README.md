@@ -25,5 +25,8 @@ Lists
 - Week (6):
 Fundamentals MidExam 
 -Mid Exam tasks (Passed 300/300).
+- Week (7):
+Classes & Objects
+-Lab Tasks (Completed).
 
 
