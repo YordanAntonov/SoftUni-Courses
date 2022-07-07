@@ -28,5 +28,9 @@ Fundamentals MidExam
 - Week (7):
 Classes & Objects
 -Lab Tasks (Completed).
+-Exercise tasks (Completed).
+- Week (8):
+Associative Arrays
+
 
 
