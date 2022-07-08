@@ -31,6 +31,7 @@ Classes & Objects
 -Exercise tasks (Completed).
 - Week (8):
 Associative Arrays
+-Lab Tasks (Completed).
 
 
 
