@@ -32,6 +32,9 @@ Classes & Objects
 - Week (8):
 Associative Arrays
 -Lab Tasks (Completed).
+-Exercise tasks (Completed).
+- Week(9):
+Text Processing
 
 
 
