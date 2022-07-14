@@ -35,6 +35,6 @@ Associative Arrays
 -Exercise tasks (Completed).
 - Week(9):
 Text Processing
-
+-Lab Tasks (Completed).
 
 
