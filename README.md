@@ -21,7 +21,7 @@ Methods
 - Week (5):
 Lists
 -Lab tasks (Completed).
--Lab Exercise (Completed).
+-Exercise tasks (Completed).
 - Week (6):
 Fundamentals MidExam 
 -Mid Exam tasks (Passed 300/300).
@@ -36,5 +36,10 @@ Associative Arrays
 - Week(9):
 Text Processing
 -Lab Tasks (Completed).
+-Exercise Tasks (Completed).
+- Week (10):
+Regular Expressions
+-Lab Tasks
+-Exercise Tasks
 
 
