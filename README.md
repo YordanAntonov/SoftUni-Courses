@@ -39,7 +39,7 @@ Text Processing
 -Exercise Tasks (Completed).
 - Week (10):
 Regular Expressions
--Lab Tasks
+-Lab Tasks (Completed).
 -Exercise Tasks
 
 
