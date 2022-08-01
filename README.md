@@ -40,6 +40,8 @@ Text Processing
 - Week (10):
 Regular Expressions
 -Lab Tasks (Completed).
--Exercise Tasks
+-Exercise Tasks (Completed).
+- Week (11):
+Fundamentals Final Exam Preparation
 
 
