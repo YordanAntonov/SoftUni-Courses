@@ -1,5 +1,5 @@
 # SoftUni Labs & Exercises
- Here i have all of the homeworks given to us in SoftUni in decending order, starting with Fundamentals!
+ Here i have all of the homeworks given to us in SoftUni in ascending order, starting with Fundamentals!
  
  -------------------------------Programing Fundamentals--------------------------------------- 
 - Week (1):
@@ -43,5 +43,5 @@ Regular Expressions
 -Exercise Tasks (Completed).
 - Week (11):
 Fundamentals Final Exam Preparation
--All exam preparation problems & tasks (Completed).
+-All exam preparation problems & tasks (Completed).s
 
