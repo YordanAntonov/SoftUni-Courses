@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fisrt Task", "Fisrt Task\Fisrt Task.csproj", "{E8EAC086-C8A0-4F49-BE71-6A14F9E9B9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boss Rush", "Boss Rush\Boss Rush.csproj", "{94F6BBC3-DEB9-42ED-A7E0-8353BC61E808}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Followers", "Followers\Followers.csproj", "{F4CA2CC0-01B9-46FC-87BB-CD69A6BF0320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8EAC086-C8A0-4F49-BE71-6A14F9E9B9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EAC086-C8A0-4F49-BE71-6A14F9E9B9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EAC086-C8A0-4F49-BE71-6A14F9E9B9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EAC086-C8A0-4F49-BE71-6A14F9E9B9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F6BBC3-DEB9-42ED-A7E0-8353BC61E808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F6BBC3-DEB9-42ED-A7E0-8353BC61E808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F6BBC3-DEB9-42ED-A7E0-8353BC61E808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F6BBC3-DEB9-42ED-A7E0-8353BC61E808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CA2CC0-01B9-46FC-87BB-CD69A6BF0320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CA2CC0-01B9-46FC-87BB-CD69A6BF0320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CA2CC0-01B9-46FC-87BB-CD69A6BF0320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CA2CC0-01B9-46FC-87BB-CD69A6BF0320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D28C1E2-36B5-4F34-BB3F-26593A707985}
+	EndGlobalSection
+EndGlobal
