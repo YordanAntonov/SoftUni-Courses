@@ -43,5 +43,10 @@ Regular Expressions
 -Exercise Tasks (Completed).
 - Week (11):
 Fundamentals Final Exam Preparation
--All exam preparation problems & tasks (Completed).s
+-All exam preparation problems & tasks (Completed).
+-Fundamentals Final Exam (Passed 300/300).
+Finish
+-------------------------------Programing Fundamentals--------------------------------------- 
+Passed the course with 6.00
+
 
