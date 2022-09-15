@@ -49,4 +49,9 @@ Finish
 -------------------------------Programing Fundamentals--------------------------------------- 
 Passed the course with 6.00
 
+-------------------------------C# Advanced ---------------------------------------
+- Week (1):
+Stacks and Queues
+-Lab Tasks (Completed).
+
 
