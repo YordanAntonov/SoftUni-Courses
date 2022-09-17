@@ -53,5 +53,7 @@ Passed the course with 6.00
 - Week (1):
 Stacks and Queues
 -Lab Tasks (Completed).
+-Exercise Tasks (Completed).
+Multidimensional Arrays
 
 
