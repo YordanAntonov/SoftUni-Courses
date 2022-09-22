@@ -57,6 +57,6 @@ Stacks and Queues
 Multidimensional Arrays
 -Lab Tasks (Completed).
 - Week (2):
--Exercise Tasks
+-Exercise Tasks (Completed).
 
 
