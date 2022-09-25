@@ -60,6 +60,6 @@ Multidimensional Arrays
 - Week (2):
 Sets and Dictionaries Advanced
 -Lab Tasks (Completed).
--Exercise Tasks
+-Exercise Tasks (Completed).
 
 
