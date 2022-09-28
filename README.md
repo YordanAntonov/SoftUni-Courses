@@ -61,5 +61,9 @@ Multidimensional Arrays
 Sets and Dictionaries Advanced
 -Lab Tasks (Completed).
 -Exercise Tasks (Completed).
+- Week (3):
+Streams, Files and Directories
+-Lab Tasks (Completed).
+-Exercise Tasks (Completed).
 
 
