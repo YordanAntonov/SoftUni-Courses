@@ -69,6 +69,7 @@ Functional Programming
 -Lab Tasks (Completed).
 -Exercise Tasks (Completed).
 - Week (4):
-
+Defining Classes
+-Lab Tasks (Completed).
 
 
