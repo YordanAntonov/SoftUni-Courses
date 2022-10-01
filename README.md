@@ -65,5 +65,10 @@ Sets and Dictionaries Advanced
 Streams, Files and Directories
 -Lab Tasks (Completed).
 -Exercise Tasks (Completed).
+Functional Programming
+-Lab Tasks (Completed).
+-Exercise Tasks (Completed).
+- Week (4):
+
 
 
