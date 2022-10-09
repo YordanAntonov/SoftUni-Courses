@@ -78,6 +78,6 @@ Implementing List, Stack & Queue
 -No Tasks
 - Week (5):
 Generics
-
+-Lab Tasks (Completed).
 
 
