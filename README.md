@@ -71,5 +71,13 @@ Functional Programming
 - Week (4):
 Defining Classes
 -Lab Tasks (Completed).
+-Exercise Tasks (Completed).
+Implementing Linked List
+-No Tasks
+Implementing List, Stack & Queue
+-No Tasks
+- Week (5):
+Generics
+
 
 
