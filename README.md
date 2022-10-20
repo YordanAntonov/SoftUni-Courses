@@ -79,5 +79,11 @@ Implementing List, Stack & Queue
 - Week (5):
 Generics
 -Lab Tasks (Completed).
+-Exercise Tasks (Completed).
+Iterators & Comparors
+-Exercise Tasks (Completed).
+-Week (6):
+-Exam Preparation 1 (Completed).
+-Exam Preparation 2 
 
 
