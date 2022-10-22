@@ -85,7 +85,7 @@ Iterators & Comparors
 - Week (6):
 -Exam Preparation 1 (Completed).
 -Exam Preparation 2 (Completed).
-Fina Exam (Completed.) 300/300
+Final Exam (Passed 300/300).
 C# Advanced passed with 6.00
 
 -------------------------------C# OOP ---------------------------------------
