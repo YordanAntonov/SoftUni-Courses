@@ -89,5 +89,8 @@ Final Exam (Passed 300/300).
 C# Advanced passed with 6.00
 
 -------------------------------C# OOP ---------------------------------------
-
+- Week(1):
+Inheritance
+-Lab Tasks (Completed).
+-Exercise Tasks (Completed).
 
