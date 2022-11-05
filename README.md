@@ -94,3 +94,10 @@ Inheritance
 -Lab Tasks (Completed).
 -Exercise Tasks (Completed).
 
+Encapsulation
+-Encapsulation Lab (Completed).
+-Encapsulation Exercise (Completed).
+- Week(2):
+Abstraction
+-Abstraction Lab 
+-Abstraction Exercise 
