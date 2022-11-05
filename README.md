@@ -89,8 +89,8 @@ Final Exam (Passed 300/300).
 C# Advanced passed with 6.00
 
 -------------------------------C# OOP ---------------------------------------
-- Week(1):
 *****************************************
+- Week(1):
 Inheritance
 -Lab Tasks (Completed).
 -Exercise Tasks (Completed).
@@ -98,9 +98,8 @@ Inheritance
 Encapsulation
 -Encapsulation Lab (Completed).
 -Encapsulation Exercise (Completed).
-
-- Week(2):
 *****************************************
+- Week(2):
 Abstraction
 -Abstraction Lab 
 -Abstraction Exercise 
