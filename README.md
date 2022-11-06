@@ -100,6 +100,11 @@ Encapsulation
 -Encapsulation Exercise (Completed).
 *****************************************
 - Week(2):
+
 Abstraction
--Abstraction Lab 
--Abstraction Exercise 
+-Abstraction Lab (Completed).
+-Abstraction Exercise (Completed).
+
+Polymorphism
+-Polymorphism Lab (Completed).
+
