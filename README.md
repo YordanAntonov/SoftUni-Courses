@@ -107,4 +107,11 @@ Abstraction
 
 Polymorphism
 -Polymorphism Lab (Completed).
+-Polymorphism Exercise (Completed).
+*****************************************
+- Week(3):
+
+Exception Handling
+Debbuging Tactics
+SOLID Principles
 
