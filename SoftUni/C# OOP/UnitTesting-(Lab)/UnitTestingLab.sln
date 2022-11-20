@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeleten.Tests", "AxeAndDummyTests\Skeleten.Tests.csproj", "{3A69972A-C881-4249-AC10-C1CEEFBCC6E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeleton", "UnitTests2\Skeleton.csproj", "{F5186A2E-4527-423D-AFD0-0842D97E31B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A69972A-C881-4249-AC10-C1CEEFBCC6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A69972A-C881-4249-AC10-C1CEEFBCC6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A69972A-C881-4249-AC10-C1CEEFBCC6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A69972A-C881-4249-AC10-C1CEEFBCC6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5186A2E-4527-423D-AFD0-0842D97E31B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5186A2E-4527-423D-AFD0-0842D97E31B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5186A2E-4527-423D-AFD0-0842D97E31B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5186A2E-4527-423D-AFD0-0842D97E31B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E9B598F-1844-4E00-A4A7-D7091F2327FB}
+	EndGlobalSection
+EndGlobal
