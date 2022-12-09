@@ -127,4 +127,10 @@ Unit_Testing
 *****************************************
 - Week(5):
 Mocking
+Design Patterns
+*****************************************
+- Week(6):
+Exam Preparation 1
+Exam Preparation 2
+Exam Preparations
 
