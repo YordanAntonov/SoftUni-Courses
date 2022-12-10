@@ -134,3 +134,5 @@ Exam Preparation 1
 Exam Preparation 2
 Exam Preparations
 
+C# OOP Final Exam passed with 300/300;
+C# OOP Module passed with 6.00
