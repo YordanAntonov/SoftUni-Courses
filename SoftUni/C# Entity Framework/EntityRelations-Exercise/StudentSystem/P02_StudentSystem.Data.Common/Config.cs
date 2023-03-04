@@ -8,6 +8,6 @@ namespace P02_StudentSystem.Data.Common
 {
     public static class Config
     {
-        public const string CONNECTION_STRING = @"Server=.;Database=StudentSystem;User Id=sa;Password=Beatrad1!;MultipleActiveResultSets=true;Trust Server Certificate=true";
+        public const string CONNECTION_STRING = @"";
     }
 }
