@@ -146,3 +146,5 @@ Passed with 300/300 Grade: 6.00
 Entity Framework First Exercise(Completed).
 - Week(2)
 Entity Framework Relations(Code First approach) - Exercise(Complited).
+
+Entity Framework LINQ - Exercise(Completed).
