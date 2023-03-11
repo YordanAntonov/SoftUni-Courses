@@ -144,7 +144,10 @@ Passed with 300/300 Grade: 6.00
 -------------------------------C# Entity Framework ---------------------------------------
 - Week(1):
 Entity Framework First Exercise(Completed).
-- Week(2)
+- Week(2):
 Entity Framework Relations(Code First approach) - Exercise(Complited).
 
 Entity Framework LINQ - Exercise(Completed).
+
+- Week(3):
+Entity Framework Advanced Quering - Exercise(Completed).
