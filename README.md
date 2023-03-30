@@ -156,3 +156,6 @@ Entity Framework Advanced Quering - Exercise(Completed).
 JSON (Java-Script-Object-Notation) Exercise Completed.
 
 XML (Extenden Markup Language) Exercise Completed.
+
+- Week(5):
+Exam Preparations! (Completed)
