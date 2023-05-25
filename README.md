@@ -159,3 +159,11 @@ XML (Extenden Markup Language) Exercise Completed.
 
 - Week(5):
 Exam Preparations! (Completed)
+
+- Week(6):
+Entity Framework exam (Completed)!
+
+Entity Framework Final Exam passed with 300/300;
+Entity Framework Module passed with 6.00
+
+-------------------------------C# Web Development ---------------------------------------
