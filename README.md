@@ -167,3 +167,6 @@ Entity Framework Final Exam passed with 300/300;
 Entity Framework Module passed with 6.00
 
 -------------------------------C# Web Development ---------------------------------------
+
+- Week (2):
+Introduction to ASP.NET Exercise (Completed).
