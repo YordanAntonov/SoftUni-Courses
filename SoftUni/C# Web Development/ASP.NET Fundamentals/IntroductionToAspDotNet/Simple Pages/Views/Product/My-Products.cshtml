@@ -1,0 +1,43 @@
+﻿@using Simple_Pages.Models.Products
+
+@{
+    ViewData["Header"] = "All Products";
+}
+
+@model ICollection<ProductViewModel>
+
+<div class="card" style="width: 18rem;">
+    <div class="card-header">
+        @ViewData["Header"]
+    </div>
+    <ul class="list-group list-group-flush">
+        @if (Model.Any())
+        {
+            @foreach (var product in Model)
+            {
+                <li class="list-group-item">
+                    N.@product.Id: @product.Name - @product.Price lv.
+                </li>
+            }
+        }
+        else
+        {
+            <li style="list-style-type:none; margin-left: 14px;">No Products Found</li>
+        }
+    </ul>
+</div>
+
+<div style="margin-top: 10px;">
+    <form asp-controller="Product" asp-action="ById" method="post">
+        <div class="row">
+            <div class="col-2">
+                <input class="form-control" type="number" min="0" max=@Model.Count step="1" name="id" , placeholder="Enter product Id"></input>
+            </div>
+            <div class="col-2" style="margin-left: -7px;">
+                <button class="btn btn-primary">Search</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+

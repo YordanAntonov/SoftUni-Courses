@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["TitleData"] = "Home Page from ViewData";
+    ViewData["Header"] = "Home Page";
+    ViewBag.Title = "Home Page from ViewBag";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["TitleData"]</h1>
+    <h1 class="display-4">@ViewBag.Title</h1>
+    <h2>@ViewBag.Message</h2>
+    <p>This is @ViewBag.Title</p>
+    <p>This is @ViewData["TitleData"]</p>
+</div>

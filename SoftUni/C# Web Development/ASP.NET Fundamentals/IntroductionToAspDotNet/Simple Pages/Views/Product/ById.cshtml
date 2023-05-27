@@ -1,0 +1,16 @@
+﻿@using Simple_Pages.Models.Products
+@model ProductViewModel
+@{
+    ViewData["Header"] = "Product by ID";
+    ViewData["ProductNum"] = $"Product N.{Model.Id}";
+}
+
+<div class="card" style="width: 18rem; color:darkslategrey;">
+    <div class="card-header">
+        @ViewData["ProductNum"]
+    </div>
+    <div class="card-body">
+        <h5>Product Name: @Model.Name</h5>
+        <p>Price: @Math.Round(Model.Price, 2) lv.</p>
+    </div>
+</div>

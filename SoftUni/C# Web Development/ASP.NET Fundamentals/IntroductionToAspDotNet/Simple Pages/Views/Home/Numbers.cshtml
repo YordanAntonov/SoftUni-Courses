@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Header"] = "Nums 1...50";
+}
+
+<h2>@ViewData["Header"]</h2>
+<ul>
+    @for (int i = 1; i <= 50; i++)
+    {
+        <li>@i</li>
+    }
+</ul>
