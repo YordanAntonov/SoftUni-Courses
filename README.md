@@ -89,7 +89,6 @@ Final Exam (Passed 300/300).
 C# Advanced passed with 6.00
 
 -------------------------------C# OOP ---------------------------------------
-*****************************************
 - Week(1):
 Inheritance
 -Lab Tasks (Completed).
@@ -98,9 +97,8 @@ Inheritance
 Encapsulation
 -Encapsulation Lab (Completed).
 -Encapsulation Exercise (Completed).
-*****************************************
-- Week(2):
 
+- Week(2):
 Abstraction
 -Abstraction Lab (Completed).
 -Abstraction Exercise (Completed).
@@ -108,13 +106,13 @@ Abstraction
 Polymorphism
 -Polymorphism Lab (Completed).
 -Polymorphism Exercise (Completed).
-*****************************************
+
 - Week(3):
 
 Exception Handling
 Debbuging Tactics
 SOLID Principles
-*****************************************
+
 - Week(4):
 
 Reflection_And_Attributes
@@ -124,11 +122,11 @@ Reflection_And_Attributes
 Unit_Testing
 -Unit_Testing Lab (Completed).
 -Unit_Testing Exercise (Completed).
-*****************************************
+
 - Week(5):
 Mocking
 Design Patterns
-*****************************************
+
 - Week(6):
 Exam Preparation 1
 Exam Preparation 2
