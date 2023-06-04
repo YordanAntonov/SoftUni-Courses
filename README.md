@@ -131,7 +131,9 @@ C# OOP Final Exam passed with 300/300;
 C# OOP Module passed with 6.00
 
 -------------------------------MS SQL ---------------------------------------
+
 Passed with 300/300 Grade: 6.00
+
 (no data from queries)
 
 -------------------------------C# Entity Framework ---------------------------------------
