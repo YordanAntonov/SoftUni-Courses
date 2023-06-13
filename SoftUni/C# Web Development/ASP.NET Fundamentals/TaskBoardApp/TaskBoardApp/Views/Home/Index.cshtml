@@ -1,0 +1,54 @@
+﻿@using TaskBoardApp.Web.ViewModels.ExportModels.IndexPageViewModel
+@model HomeViewModel
+@{
+ ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+         <h1 class="display-4">
+         Task Board: A Board for Your Tasks</h1>
+    </div>
+    <hr />
+<section class="home-page">
+         @if (!User.Identity.IsAuthenticated)
+         {
+            <h1 class="text-center">Welcome!</h1>
+         }
+         else
+         {
+            <h1 class="text-center">Welcome, @User.Identity.Name!</h1>
+         }
+        <hr class="hr-2 bg-secondary" />
+        <h4 class="mt-4 text-center">TaskBoard is here for all your tasks.</h4>
+        <br />
+        <div style="background-color: slategrey; margin-block: 50px; margin: 100px">
+            <span class="boardSpan">Tasks: <b>@Model.AllTasksCount</b></span>
+            <ul>
+                 @foreach (var board in Model.BoardsWithTasksCount)
+                 {
+                    <li>
+                      <span class="boardSpan">@board.BoardName:
+                       <b>@board.TaskCount</b></span>
+                    </li>
+                 }
+            </ul>
+        </div>
+
+             @if (Model.UserTaskCount > -1)
+             {
+             <h5>You have: <b>@Model.UserTaskCount</b> tasks</h5>
+             }
+
+        @if (!User.Identity.IsAuthenticated)
+        {
+            <div class="text-center" style="margin-top: 100px">
+               <h2 class="text-center">Register for free!</h2>
+               <div>
+                    <h3>
+                       <a class="btn btn-success" href = "/Identity/Account/Register"> Click Here</a>
+                    </h3>
+               </div>
+            </div>
+        }
+
+</section>
