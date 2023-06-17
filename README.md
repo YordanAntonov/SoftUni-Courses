@@ -171,3 +171,6 @@ Forum Application (Basic CRUD operations)(Completed).
 
 - Week (4):
 TaskBoardApplication (Completed).
+
+- Week (5):
+Added Library Application (Completed).
