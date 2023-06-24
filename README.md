@@ -174,3 +174,6 @@ TaskBoardApplication (Completed).
 
 - Week (5):
 Added Library Application (Completed).
+
+- Week (6):
+Added ASP.NET fundamentals Final Exam.
