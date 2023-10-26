@@ -176,4 +176,8 @@ TaskBoardApplication (Completed).
 Added Library Application (Completed).
 
 - Week (6):
-Added ASP.NET fundamentals Final Exam.
+Added ASP.NET fundamentals Final Exam (Passed 6.00).
+
+-------------------------------JS-FRONT-END ---------------------------------------
+- Week (1):
+JavaScript Fundamentals Lab (Completed).
