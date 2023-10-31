@@ -230,23 +230,59 @@ function speedLimit(speed, area) {
 // speedLimit(400, "city");
 
 //Task 12
-function cooking(num, ing1, ing2, ing3, ing4, ing5){
+function cooking(num, ing1, ing2, ing3, ing4, ing5) {
   let number = Number(num);
   let ingArray = [ing1, ing2, ing3, ing4, ing5];
 
-  for (let i = 0; i < ingArray.length; i++){
+  for (let i = 0; i < ingArray.length; i++) {
     let currIng = ingArray[i];
 
-    switch (currIng){
-      case "chop": number /= 2; break;
-      case "dice": number = Math.sqrt(number, 2); break;
-      case "spice": number += 1; break;
-      case "bake": number *= 3; break;
-      case "fillet": number *= 0.80; break;
+    switch (currIng) {
+      case "chop":
+        number /= 2;
+        break;
+      case "dice":
+        number = Math.sqrt(number, 2);
+        break;
+      case "spice":
+        number += 1;
+        break;
+      case "bake":
+        number *= 3;
+        break;
+      case "fillet":
+        number *= 0.8;
+        break;
     }
 
     console.log(number);
   }
 }
 
-cooking('9', 'dice', 'spice', 'chop', 'bake','fillet');
+// cooking('9', 'dice', 'spice', 'chop', 'bake','fillet');
+
+//Bonus Task:
+function gladiatus(fights, helmetP, swordP, shieldP, armorP) {
+  let totalSum = 0;
+  let shieldCounter = 0;
+
+  for (let i = 1; i <= fights; i++) {
+    if (i % 2 === 0) {
+      totalSum += helmetP;
+    }
+    if (i % 3 === 0) {
+      totalSum += swordP;
+    }
+    if (i % 2 === 0 && i % 3 === 0) {
+      totalSum += shieldP;
+      shieldCounter++;
+      if (shieldCounter % 2 === 0 && shieldCounter != 0) {
+        totalSum += armorP;
+      }
+    }
+  }
+
+  console.log(`Gladiator expenses: ${totalSum.toFixed(2)} aureus`);
+}
+
+gladiatus(23, 12.5, 21.5, 40, 200);
