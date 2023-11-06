@@ -181,4 +181,6 @@ Added ASP.NET fundamentals Final Exam (Passed 6.00).
 -------------------------------JS-FRONT-END ---------------------------------------
 - Week (1):
 JavaScript Fundamentals Lab (Completed).
-JS Syntax Fundamentals – Exercises(Completed). 
+JS Syntax Fundamentals – Exercises(Completed).
+JS Arrays & Strings Lab (Completed).
+JS Arrays & Strings Exercise (Completed).
