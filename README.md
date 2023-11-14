@@ -184,3 +184,5 @@ JavaScript Fundamentals Lab (Completed).
 JS Syntax Fundamentals – Exercises(Completed).
 JS Arrays & Strings Lab (Completed).
 JS Arrays & Strings Exercise (Completed).
+JS Functions & Statements Lab (Completed).
+JS Functions & Statements Exercise (Completed).
