@@ -47,4 +47,29 @@ function orders(product, n){
     console.log(total.toFixed(2));
 }
 
-orders("water", 5)
+// orders("water", 5)
+
+//Task 5
+function mathOperations(x, y, operator){
+  const operation = {
+    multiply: (x, y) => x * y,
+    divide: (x, y) => x / y,
+    add: (x, y) => x + y,
+    subtract: (x, y) => x - y,
+  };
+
+  console.log(operation[operator](x, y));
+}
+
+// mathOperations(5, 5,'add')
+
+//Task 6
+function checkIfPositive(num1, num2, num3){
+  let result = num1 * num2 * num3;
+
+  let print = result > 0 ? "Positive" : "Negative";
+
+  console.log(print);
+}
+
+checkIfPositive(-200, -2, -3);
