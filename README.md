@@ -186,3 +186,4 @@ JS Arrays & Strings Lab (Completed).
 JS Arrays & Strings Exercise (Completed).
 JS Functions & Statements Lab (Completed).
 JS Functions & Statements Exercise (Completed).
+JS Classes & Objects Lab (Completed).
