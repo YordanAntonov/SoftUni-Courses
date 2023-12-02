@@ -194,4 +194,4 @@ function songs(arr) {
   }
 }
 
-songs([2,'like_Replay_3:15','ban_Photoshop_3:48','all']);
+// songs([2,'like_Replay_3:15','ban_Photoshop_3:48','all']);
