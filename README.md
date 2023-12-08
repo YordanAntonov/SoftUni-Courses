@@ -189,3 +189,5 @@ JS Functions & Statements Exercise (Completed).
 JS Classes & Objects Lab (Completed).
 JS Classes & Objects Exercise (Completed).
 Introduction to DOM Lab (Completed).
+Introduction to DOM Exercise (Completed).
+DOM manipulations and Events Lab (Completed).
