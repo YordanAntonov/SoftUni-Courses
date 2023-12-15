@@ -192,3 +192,4 @@ Introduction to DOM Lab (Completed).
 Introduction to DOM Exercise (Completed).
 DOM manipulations and Events Lab (Completed).
 DOM manipulations and Events Exercise (Completed).
+Exercise HTTP and AJAX tasks (Completed).
