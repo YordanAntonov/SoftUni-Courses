@@ -194,3 +194,4 @@ DOM manipulations and Events Lab (Completed).
 DOM manipulations and Events Exercise (Completed).
 Exercise HTTP and AJAX tasks (Completed).
 Exam Preparations (Completed).
+Final Exam Passes 300/300. (Completed).
